@@ -10,3 +10,4 @@ while A == 0:
     print("test")
 
 B = "Test"
+C = "TEST2"
