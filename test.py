@@ -9,5 +9,3 @@ while A == 0:
     time.sleep(5)
     print("test")
 
-B = "Test"
-C = "TEST2"
