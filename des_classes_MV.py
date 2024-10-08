@@ -1,3 +1,7 @@
+# cd ".\OneDrive - NHS\HSMA\Module 7 - GIT\22 - Git\GIT Repository local\"
+# py -m streamlit run des_classes_MV.py
+
+
 import simpy
 import random
 import pandas as pd
